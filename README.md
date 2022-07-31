@@ -1,2 +1,2 @@
 # AHK
-AutoHotKey Scripts
+AutoHotKey Scripts for Windows, OSRS, and more.
